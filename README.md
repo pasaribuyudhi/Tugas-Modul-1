@@ -2,15 +2,15 @@
 Pengenalan Javascript terdapat script OnClick, filter array, includes(), toLowerCase
 
 Praktikum RSBK - KELOMPOK 28
-1. Laurensia Divina Dewi Fortuna / 21120117120010
-2. Mahani Halwa / 21120117140016
+1. Yudhi Kasih Pasaribu / 21120117140030
+2. Ikhsan Ahmad / 21120117130067
 
 # HASIL TAMPILAN "TERDAPAT DATA :"
-# TAMPILAN KETIKA MELAKUKAN INPUT "laurensia"
-![Gambar1](https://github.com/laurensiaddf/TUGAS_MODUL1_KEL28_SHIFT2/blob/main/Tampilan%20Terdapat%20Data%201_TUGAS_MODUL1_KEL28_SHIFT2.PNG)
-# TAMPILAN KETIKA MELAKUKAN INPUT "rama"
-![Gambar2](https://github.com/laurensiaddf/TUGAS_MODUL1_KEL28_SHIFT2/blob/main/Tampilan%20Terdapat%20Data%202_TUGAS_MODUL1_KEL28_SHIFT2.PNG)
+# TAMPILAN KETIKA MELAKUKAN INPUT "pasaribu"
+![Gambar1](https://github.com/pasaribuyudhi/Tugas-Modul-1/blob/main/Tampilan%20Terdapat%20Data%201.jpg)
+# TAMPILAN KETIKA MELAKUKAN INPUT "ikhsan"
+![Gambar2](https://github.com/pasaribuyudhi/Tugas-Modul-1/blob/main/Tampilan%20Terdapat%20Data%202.jpg)
 
 # HASIL TAMPILAN "GAK ADA DATA!"
-# TAMPILAN KETIKA MELAKUKAN INPUT "mahaniss"
-![Gambar4](https://github.com/laurensiaddf/TUGAS_MODUL1_KEL28_SHIFT2/blob/main/Tampilan%20Gak%20Ada%20Data!_TUGAS_MODUL1_KEL28_SHIFT2.PNG)
+# TAMPILAN KETIKA MELAKUKAN INPUT "duarrr"
+![Gambar4](https://github.com/pasaribuyudhi/Tugas-Modul-1/blob/main/Tampilan%20Gak%20Ada%20Data.jpg)
