@@ -13,4 +13,4 @@ Praktikum RSBK - KELOMPOK 4
 
 # HASIL TAMPILAN "GAK ADA DATA!"
 # TAMPILAN KETIKA MELAKUKAN INPUT "duarrr"
-![Gambar4](https://github.com/pasaribuyudhi/Tugas-Modul-1/blob/main/Tampilan%20Gak%20Ada%20Data.jpg)
+![Gambar3](https://github.com/pasaribuyudhi/Tugas-Modul-1/blob/main/Tampilan%20Gak%20Ada%20Data.jpg)
