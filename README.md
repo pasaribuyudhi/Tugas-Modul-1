@@ -1,7 +1,7 @@
-# TUGAS_MODUL1_KEL28_SHIFT2
+# TUGAS_MODUL1_KEL4_SHIFT1
 Pengenalan Javascript terdapat script OnClick, filter array, includes(), toLowerCase
 
-Praktikum RSBK - KELOMPOK 28
+Praktikum RSBK - KELOMPOK 4
 1. Yudhi Kasih Pasaribu / 21120117140030
 2. Ikhsan Ahmad / 21120117130067
 
